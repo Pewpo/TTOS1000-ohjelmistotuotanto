@@ -13,4 +13,4 @@ TBD
 
 [Asio kuvaus](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=IIO12110&knro=&noclose=%20&lan=f)
 
-[target_url=IIO12110-ohjelmistotuotannon_kaytannot/]
+[target_url=https://github.com/JAMK-IT/IIO12110-ohjelmistotuotannon_kaytannot/wiki]
