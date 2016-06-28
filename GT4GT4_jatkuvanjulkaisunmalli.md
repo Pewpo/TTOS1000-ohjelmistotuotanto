@@ -1,4 +1,4 @@
-### Harjoitus:  Test Management with Testlink
+### Harjoitus:  Jatkuva julkaisu / Continuous Delivery
 
 ### Tehtäväkuvaus:
 
