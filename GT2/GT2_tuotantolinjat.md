@@ -6,18 +6,20 @@ Ryhmä tutustuu kolmeen tuotekehityshankkeeseen ja vertailevat miten eri osa-alu
 
 Tarkastelukohteita ovat:
 
--Liiketoiminta
--Suunnittelu
--Toteutus
--Testausprosessi
--Ylläpito
--Palauteen käsittely
+* Liiketoiminta
+* Suunnittelu
+* Toteutus
+* Testausprosessi
+* Ylläpito
+* Palauteen käsittely
 
 ### Lähteet ja linkit
 
-Hanke 1: https://www.openstack.org/
-Hanke 2: http://oph.fi/oppijanpalvelut
-Hanke 3:
+_Voivat muuttua.!_
+
+* Hanke 1: https://www.openstack.org/
+* Hanke 2: http://oph.fi/oppijanpalvelut
+* Hanke 3:
 
 ### Tavoite:
 
