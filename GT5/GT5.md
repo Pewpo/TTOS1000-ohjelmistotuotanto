@@ -1,4 +1,4 @@
-### Harjoitus:  LEAN 
+### Harjoitus:  LEAN ja ketteräkehitys
 
 ### Tehtäväkuvaus:
 
