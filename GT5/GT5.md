@@ -2,7 +2,7 @@
 
 ### Tehtäväkuvaus:
 
-Tutustutaan LEAN ajatteluun ja sen periaatteisiin.
+Tutustutaan LEAN ajatteluun ja ketterän kehittämisen periaatteisiin.. 
 
 ### Lähteet ja linkit
 
