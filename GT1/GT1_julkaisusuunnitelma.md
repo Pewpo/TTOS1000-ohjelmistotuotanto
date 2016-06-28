@@ -1,4 +1,4 @@
-### Harjoitus:  Julkaisusuunnitelma - Release Plan
+### Harjoitus:  Julkaisusuunnitelma ja tuotteenhallinta - Release planning & product management
 
 ### Tehtäväkuvaus:
 
