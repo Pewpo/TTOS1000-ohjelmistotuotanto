@@ -4,6 +4,9 @@
 
 Tutustutaan LEAN ajatteluun ja ketterän kehittämisen periaatteisiin.. 
 
+* SAFe
+
+
 ### Lähteet ja linkit
 
 
