@@ -2,10 +2,12 @@
 
 ### Tehtäväkuvaus:
 
-Tutustutaan LEAN ajatteluun ja ketterän kehittämisen periaatteisiin.. 
+Tutustutaan muutamiin ajankohtaisiin käsitteiden ohella LEAN ajatteluun ja ketterän kehittämisen periaatteisiin.. 
 
-* SAFe
 
+* [LeanStartup]()
+* [InternalStartup](http://www.n4s.fi/publication/cookbook-successful-internal-startups/)
+* [SAFe]()
 
 ### Lähteet ja linkit
 
