@@ -7,7 +7,7 @@ Tutustutaan muutamiin ajankohtaisiin käsitteiden ohella LEAN ajatteluun ja kett
 
 * [LeanStartup]()
 * [InternalStartup](http://www.n4s.fi/publication/cookbook-successful-internal-startups/)
-* [SAFe]()
+* [SAFe](http://www.scaledagileframework.com/)
 
 ### Lähteet ja linkit
 
