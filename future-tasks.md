@@ -1,0 +1,5 @@
+# Harjoituksia tulevaisuudesta...
+
+
+* Ohjelmistojen lisenssit
+* 
