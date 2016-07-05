@@ -1,4 +1,4 @@
-### Harjoitus:  Julkaisusuunnitelma ja tuotteenhallinta - Release planning & product management
+### Harjoitus:  Yhteisöllinen koemateriaalin kirjoittaminen
 
 ### Tehtäväkuvaus:
 
