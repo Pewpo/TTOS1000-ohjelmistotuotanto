@@ -10,7 +10,9 @@ Ryhmä valitsee yhden aihe alueen ja koostaa siitä raportin
 * [InternalStartup](http://www.n4s.fi/publication/cookbook-successful-internal-startups/)
 * [SAFe](http://www.scaledagileframework.com/)
 * Mitä on ketterä projektinhallinta?
-* 
+* Jatkuva suunnittelu (Continuous Planning)
+* Pull vaikutus
+
 
 
 ### Lähteet ja linkit
