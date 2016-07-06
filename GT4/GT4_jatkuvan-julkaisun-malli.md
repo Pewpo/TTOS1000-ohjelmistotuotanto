@@ -12,6 +12,7 @@ Tutustutaan jatkuvan julkaisun malliiin ja sen ongelmiin
 
 ### Tavoite:
 
+Opiskelija perehtyy jatkuvan julkaisun malliin ja tuntee siihen liittyvät käsitteet ja toimintaperiaatteet
 
 
 ### Arviointi:
