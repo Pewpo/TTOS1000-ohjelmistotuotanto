@@ -11,11 +11,9 @@ Ryhmä kasaa raportin, jossa vertaillaan seuraavia osa-alueita:
 * Mitä ovat tuotteen eri osa-alueet (komponentit / ali-järjestelmät)
 * Onko tuotteesta tarjolla eri versioita? Millaisia?
 * Miten suuri tuote on ohjelmiston näkökulmasta? 
-* Miten tuotteen tulevaisuus näkyy?
-* Etsi tuotteeseen liittyvä julkaisusuunnitelma ja kerro mitä sen pohjalta tuotteen tulevaisuudesta.
-* Millainen on tuotteen julkaisusuunitelma (Road Map)
-* Millainen on muodoltaan koko tuotteen julkaisukuvaus (Release Note)
-* Millainen on alijärjestelmän julkaisukuvaus 
+* Miten tuotteen tulevaisuus on näkyvillä? Eli millainen on tuotteen julkaisusuunitelma (Road Map)
+* Millainen on muodoltaan koko tuotteen julkaisukuvaus (Release Note) anna esimerkki
+* Löytyykö alijärjestelmistä/komponenteista omia julkaisuja anna esimerkki 
 
 
 ### Lähteet ja linkit
