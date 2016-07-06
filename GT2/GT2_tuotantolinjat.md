@@ -2,7 +2,7 @@
 
 ### Tehtäväkuvaus:
 
-Ryhmä tutustuu kolmeen tuotekehityshankkeeseen ja vertailevat miten eri osa-alueet, kuten työkalut ja prosessit on hoidettu kyseisissä hankkeessa
+Ryhmä tutustuu kolmeen tuotekehityshankkeeseen (Voidaan käyttää aiemmin harjoituksessa GT1 tarkasteltuja kohteita ja vertailevat miten eri osa-alueet, kuten työkalut ja prosessit on hoidettu kyseisissä hankkeessa
 
 Tarkastelukohteita ovat:
 
