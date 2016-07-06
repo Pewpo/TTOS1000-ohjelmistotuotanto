@@ -24,9 +24,11 @@ Ryhmä kasaa raportin, jossa vertaillaan seuraavia osa-alueita:
 
 Tutustua julkaisusuunnittelun käytännön projekteissa
 
-### Palautettva kokonaisuus:
 
-Kansilehdellä varustettu raportti PDF muodossa. (min 5 sivua)
+
+### Mitä pitää palauttaa?
+
+Ryhmä palauttaa tehdyn raportin wiki muodossa
 
 
 ### Arviointi:
