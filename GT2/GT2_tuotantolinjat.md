@@ -19,7 +19,7 @@ _Voivat muuttua.!_
 
 * Hanke 1: https://www.openstack.org/
 * Hanke 2: http://oph.fi/oppijanpalvelut
-* Hanke 3:
+* Hanke 3: https://github.com/Opetushallitus/osaan.fi
 * Asiakas
 
 ### Tavoite:
