@@ -1,4 +1,4 @@
-### Harjoitus:  Tuotantolinja
+### Harjoitus:  Käytännön tuotantolinja
 
 ### Tehtäväkuvaus:
 
