@@ -1,4 +1,4 @@
-##Harjoitustehtävä 1 - User Storyt, sekä ketterä kehitys
+##Harjoitustehtävä 1 - Ketterän kehityksen periaatteet käytännössä...
 
 
 Tavoite:
