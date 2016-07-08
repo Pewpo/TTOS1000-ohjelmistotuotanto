@@ -1,13 +1,13 @@
-##Harjoitustehtävä 1 - User Storyt, sekä ketterä kehitys
+##Harjoitustehtävä 2 - Kanban ?
 
 
 Tavoite:
 
-Luodaan ryhmässä käyttäjätarinoita, jotka viedään TRAC työkaluun
+Pelataan GetKanban peliä ja tutustutaan Kanban ajatteluun..
 
+* [GetKanban?](https://getkanban.com/)
+* 
 
-Viedään kuvitteellista kehitystä läpi "virtuaalisten sprinttien"
-Tarkastellaan Burndown näkymää
 
 
 
