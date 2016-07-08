@@ -1,30 +1,436 @@
 id,status,changetime,description,reporter,story_priority,resolution,time,summary,keywords,milestone,owner,rd_points,sprint,type
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
-1,new,2016-07-07 10:05:57.251742+00:00,,admin,,,2016-07-07 10:05:57.251742+00:00,"As a <type of user>, I want <to perform some task> so that I can <achieve some goal/benefit/value>. ",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose feature from catalog and 
+-User can see my current service plan  when I have enabled feature",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
+1,new,2016-07-07 10:05:57.251742+00:00,"
+This user story came from customer support team. 
+
+Primary reason is to get more users for feature XXXX
+
+Needed tasks:
+
+Design, Implement, Document and Deployment
+
+Acceptance criterias:
+
+-Review help documentation with end user customer
+-Check user can disable feature without extra cost
+-User can choose which credit(s) to pick up
+-I can see my new purse balance when I have chosen to pick up a credit",admin,,,2016-07-07 10:05:57.251742+00:00,"As a (type of user), I want (to perform some task) so that I can (achieve some goal/benefit/value).",,,,,,story
