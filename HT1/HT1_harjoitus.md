@@ -22,11 +22,23 @@ Mitä tehdään:
 * Tarkastellaan Burndown näkymän muutoksia
 * 
 
-Miten aikaa nopeutetaan:) ?
+Mitä pitää ymmärtää!
 
-Sprintin etenemistä vauhditetaan vaihtamalla virtuaalikoneessa päivämäärää, sen takia joudutaan virtuaalikoneesta estämään yhteys isännän RTC-aikaan. Muokkaus on tehty vbox konfiguraatio tiedostoon..
+* Kannattaa kerrata käsitteet: Story Points, Product Backlog, Sprint, User Story, Product Owner, Scrum Master, Acceptance Criteria, Planning Poker
+* 
+
+
+###Miten ihmeessä aikaa nopeutetaan:) ?
+
+Sprintin etenemistä vauhditetaan muokkaamalla virtuaalikoneen sisäistä kelloa. Tämän seurauksena joudumme poistamaan virtuaalikoneesta kellosynkronoinnin isännän RTC-aikaan. Muokkaus on mahdollista muokkaammalla Virtualbox [konfiguraatio tiedostoa](https://github.com/JAMK-IT/IIO12110-ohjelmistotuotannon_kaytannot/blob/master/HT1/agilo-appliance-debian-8.5.0-amd64.vbox).
+
+Kun muutos on tehty. Voi aikaa siirtää virtuaalikoneessa konsolilta käyttäen komentoa: 
 
 _sudo data -s "next day"_
+
+
+
+
 
 
 
