@@ -3,7 +3,7 @@
 
 Tavoite:
 
-Tututstuaan Agilo Trac-työkaluun ja tarkastellaan sen avulla miten ketterän kehityksen sprinttien aikana
+Tututstuaan Agilo Trac-työkaluun ja tarkastellaan sen avulla miten hommat etenee sprinttien aikana
 
 Ryhmä asentaa oman Agilon virtuaalikoneena ja importoi hakemistossa olevan "product-backlog.csv* tiedoston sisällön
 ko. työkaluun
