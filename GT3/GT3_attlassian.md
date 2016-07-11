@@ -1,14 +1,13 @@
 ### Harjoitus: Tutustuminen JIRA & Confluence-työvälineisiin
 
-Issue/Defect Management - JIRA
-
-Tutustutaan varsin yleisesti käytettyyn tehtävä/vianhallinta työkaluun nimeltä JIRA
-
+Tutustutaan suosittuun tehtävähallintatyökaluun nimeltä JIRA ja Confluence-Wikiin
 
 
 ### Tehtäväkuvaus:
 
-Ryhmän tehtävän on pysytyttää JIRA-palvelin ja luoda sen avulla vianhallintaprosessi, jonka avulla voidaan hallinoida tuotekehityksen aikana ilmeneviä ongelmia ja vikoja. Kurssin yhteydessä asetetaan tuotteeksi jo olemassa oleva tuote, joka ei käytä JIRAa vianhallintaan. Tutustumiskohteeksi valittava tuote voi olla varsin laaja: Windows Firefox selain, Ubuntu 16.04 jokin osa etc. 
+Ryhmän tehtävän on pysytyttää oman JIRA-palvelmen ja luoda sen varaan työskentelyprosessin, jonka avulla voidaan hallinoida tuotekehityksen aikana ilmeneviä ongelmia ja vikoja. 
+
+Ryhmä pyrkivät muokkaamaan, jo olemassa olevasa projektista JIRAn muotoon muokatun
 
 *Työnkulku:*
 
@@ -27,13 +26,11 @@ Käyttäjä tuottaa vika raportin, jonk vikakoordinaattori ohjaa koodarille. Koo
 
 
 
-* Lorem Ipsum
-
 
 ### Lähteet ja linkit
 
 * https://www.atlassian.com/software/jira
-
+* http://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html
 
 ### Tavoite:
 
@@ -44,25 +41,4 @@ Käyttäjä tuottaa vika raportin, jonk vikakoordinaattori ohjaa koodarille. Koo
 ### Arviointi:
 
 * Palautetaan opettajalle 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
