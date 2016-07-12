@@ -3,11 +3,7 @@
 
 Tavoite:
 
-Pelataan Kanban-peliä ja tutustutaan Kanban ajatteluun..
-
-* http://www.slideshare.net/dtsato/lean-lego-game
-* 
-
+Tehdään oma kanban taulu ja harjoitellaan sen käyttöä
 
 
 
