@@ -3,21 +3,19 @@
 
 Tavoite:
 
-Tututstuaan Agilo Trac-työkaluun ja tarkastellaan sen avulla miten hommat etenee sprinttien aikana
+Tututstuaan Agile Fant-työkaluun ja tarkastellaan sen avulla miten hommat etenee sprinttien aikana
 
 Ryhmä asentaa oman Agilon virtuaalikoneena ja importoi hakemistossa olevan "product-backlog.csv* tiedoston sisällön
 ko. työkaluun
 
-* [Mikä on Agilo?](http://www.agilofortrac.com/)
-* [Mikä on Trac?](https://trac.edgewall.org/)
-* [Mikä on Agile42](http://www.agile42.com/en/agile-info-center/)
+* [Mikä on Agilefant?](http://www.agilefant.com/)
+
 
 
 Mitä tehdään:
 
-* Tutustutaan miten agilo toimii
+* Tutustutaan miten agile toimii
 * Luodaan taskeja
-* Luodaan ryhmässä käyttäjätarinoita, jotka viedään TRAC työkaluun
 * Viedään kuvitteellista kehitystä läpi "virtuaalisten sprinttien"
 * Tarkastellaan Burndown näkymän muutoksia
 * 
@@ -35,20 +33,3 @@ Sprintin etenemistä vauhditetaan muokkaamalla virtuaalikoneen sisäistä kelloa
 Kun muutos on tehty. Voi aikaa siirtää virtuaalikoneessa konsolilta käyttäen komentoa: 
 
 _sudo data -s "next day"_
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
