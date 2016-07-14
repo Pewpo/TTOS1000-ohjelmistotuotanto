@@ -2,12 +2,12 @@
 
 ###Kurssin sisältö
 
-Opintojaksossa tutustutaan ohjelmiston kehityksen eri vaiheisiin asiakaskontakteista, esitutkimuksesta ja vaatimusmäärittelystä suunnittelun, toteutuksen ja testauksen kautta ylläpitoon sekä versiohallintaan asti. Lisäksi perehdytään ohjelmistotuotannon keskeisiin kysymyksiin yrityksen tuotantoprosessin, liiketalouden ja laadun näkökulmasta. 
-Opintojaksossa toteutetaan vaativa harjoitustyö.
+Opintojaksossa tutustutaan oleellisiin menetelmiin, joita käytetään tämän päivän tuotekehityksessä. Kurssin tehtävän on antaa pohjaa projektikurssin (IIO12200) suorittamiseen. 
+Lisäksi perehdytään ohjelmistotuotannon keskeisiin kysymyksiin yrityksen tuotantoprosessin, liiketalouden ja laadun näkökulmasta vierailijaluentojen muodossa.
 
 ###Tavoitteet
 
-TBD
+Oppia tunnistamaan ja soveltamaan oleellisia toimintatapoja ja käyntänteitä.
 
 
 
