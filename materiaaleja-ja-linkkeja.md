@@ -148,22 +148,13 @@ Työvälineitä
 
 ## Järjestelmäarkkitehtuuri
 
-Tulossa...
 
-Micro Service Architecture | https://www.youtube.com/watch?v=PFQnNFe27kU |
+* Micro Service Architecture | https://www.youtube.com/watch?v=PFQnNFe27kU |
 
 ## Kokonaisarkkitehtuuri
 
+Mikä se on ?
 
-
-## Testaus & Muut jännät jutskat!
-
-* [Open Source Security Testing Methodology Manual OSSTMM](http://www.isecom.org/research/)
-*  [Ollin tuumailut](http://ollintuumailut.blogspot.fi/2014/04/ohjelmistotestaus-osa.html)
-*  [Testaus Blogi](http://avustaja.blogspot.fi/ |
-*  [Web Designer Nightmare](http://www.youtube.com/watch?v=CfxTc7_1UVE)
-*  [IteWiki](http://www.itewiki.fi)
-*  [Vitsi](https://www.youtube.com/watch?v=lXNu0VBVCUc]
 
 ## Projektin hallinta linkkeja ja toimijoita
 
