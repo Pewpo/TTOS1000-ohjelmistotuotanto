@@ -7,6 +7,7 @@ Erityisen tärkeää on kerätä jokaisen käsite/aihekokonaisuuden sivun loppuu
 Kun tuotettu  Dokumenttaatio todetaan riittävän valmiiksi (takaraja sovitaan kurssin aikana) se tarkistetaan käyttäen apuna [Urkund-järjestelmää](http://www.urkund.com/fi/), jonka avulla tarkistetaan onko sisällössä käytetty plagioitua tekstiä!
 Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 
+Muista! Hyvin tehdyistä sivuista tai niiden yhdistelystä saattaa saada bonusta kokeessa!
 
 | Tiimi A | [Käsite]() |
 |:-:|:-:|:-:| Muuta |
