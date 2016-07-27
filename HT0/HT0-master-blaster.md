@@ -84,31 +84,32 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 * julkaisu (Release)
 * Versiohallinta (version control)
 * Konfiguraatiohallinta(configuration management)
-* kontti(Container) ,  
+* kontti (Container)  
 * Versionumerointi
 * CM
 
-###Ylläpito
+###Julkaisu & ylläpito (Deployment & Maintenance)
 
-* Monitorointi
-* orkestrointi (Orchestration), 
+* Monitorointi (Monitoring)
+* Orkestrointi (Orchestration) 
 
 ###Dokumentointi
 
-* Dokumentinhallinta
-* Dokumenttien metamallit
-* 
+* Dokumentinhallinta (Dockument Management System)
+* Dokumentin metamalli (Document Metamodel)
+ 
 
 ### Prosessit
 
+* Katselmointiprosessi (Review Process)
 * ketteräkehittäminen (Agile Development)
 * vesiputousmalli (Water Fall model)
 * Rational Unified Process (RUP),
 * Katselmointi (review)
-* [SAFe](http://www.scaledagileframework.com/)
-* CMMi
-* ALM
-* DevOps
+* SAFe (Scaled Agile Framework)
+* CMMi (
+* ALM (Application Lifecycle Model)
+* DevOps (
 * Reverse Engineering
 * Six Sigma
 * LEAN Six Sigma
@@ -121,11 +122,11 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 
 ### Liiketoiminta
 
-* Kate
-* Kiinteät kustannukset
-* 
+* Kate (Revenue)
+* Kiinteät kustannukset (Fixed costs)
+* Miestyökuukausi (Man month)
  
-### BOK's
+### BOK's (Book of Knowledge)
 
 * Lean Body of Knowledge
 * Project Management Body of Knowledge
