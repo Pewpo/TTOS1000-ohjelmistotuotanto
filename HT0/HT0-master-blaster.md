@@ -4,7 +4,7 @@ Ryhmät/yksilöt tuottavat yhdessä wiki-sivuston, johon luodaan jokaisesta alla
 Tuotettava sisältö ei voi olla suoraan kopioitu verkkosivuilita, vaan se on kirjoitettava ryhmän/yksilön toimesta. 
 Erityisen tärkeää on kerätä jokaisen käsite/aihekokonaisuuden sivun loppuun kokoelma lähteitä, joista on ollut apua tekstin kirjoittamisessa.
 
-Kun tuotettu  Dokumenttaatio todetaan riittävän valmiiksi (takaraja sovitaan kurssin aikana) se viedään läpi Urkund järjestelmän, jonka avulla tarkistetaan onko sisällössä käytetty plagioitua tekstiä!
+Kun tuotettu  Dokumenttaatio todetaan riittävän valmiiksi (takaraja sovitaan kurssin aikana) se tarkistetaan käyttäen apuna [Urkund-järjestelmää](http://www.urkund.com/fi/), jonka avulla tarkistetaan onko sisällössä käytetty plagioitua tekstiä!
 Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 
 
