@@ -37,11 +37,14 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 
 ###Määrittely
 
-* Vaatimustenhallinta (Requirement Management), funktionaalinen vaatimus (Functional Requirement), ei-funktionaalinen vaatimus (Non functional requirement)
+* Vaatimustenhallinta (Requirement Management)
+* Toiminnallinen vaatimus (Functional Requirement)
+* Ei-toiminnnallinen vaatimus (Non functional requirement)
+* Vaatimusten jäljitettävyys - (Traceability)
 * Job Story
 * Käyttäjätarina - User Story
-* Use Case
-* Unified Modeling Language
+* Käyttötapaus - (Use Case)
+* UML - (Unified Modeling Language)
 *
 
 ###Suunnittelu
@@ -86,19 +89,20 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 * julkaisu (Release)
 * Versiohallinta (version control)
 * Konfiguraatiohallinta(configuration management)
-* kontti(Container) ,  
+* kontti(Container)  
 * Versionumerointi
-* CM
+* 
 
 ###Ylläpito
 
-* Monitorointi
-* orkestrointi (Orchestration), 
+* Monitorointi (Service monitoring)
+* orkestrointi (Orchestration)
+* Julkaisu (Deployment)
 
 ###Dokumentointi
 
-* Dokumentinhallinta
-* Dokumenttien metamallit
+* Dokumentinhallinta (Document Management)
+* Dokumenttien metamallit (Document Metamodel)
 * 
 
 ### Prosessit
@@ -129,6 +133,7 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
  
 ### BOK's
 
+
 * Lean Body of Knowledge
 * Project Management Body of Knowledge
 * Enterprise Architecture Body of Knowledge
@@ -136,12 +141,8 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 * Software Engineering Body of Knowledge
 * Architecture Body of Knowledg
 * Business Analysis Body of Knowledge
-* ITIL
-* SOFTWARE TESTING BODY OF KNOWLEDGE
-
-
-
-Ryhmä valitsee vapaasti viisi erilaista projektia (koko loc > 100000 riviä) ja vertailee niiden julkaisusuunnitelmia. 
+* Information Technology Infrastructure Library ITIL
+* Software testing body of knowledge
 
 ### Lähteet ja linkit
 
