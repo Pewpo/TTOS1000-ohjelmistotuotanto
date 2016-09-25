@@ -13,16 +13,16 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 | Nimi | Käsite 1 | Käsite 2 |
 |:-:|:-:|:-:|
 | Ahonen Hanna | Asiakas (Customer) | Versionumerointi |
-| Aurasmaa Ellinoora | TuotepÃ¤Ã¤likkÃ¶ (Product Manager) | Monitorointi (Service monitoring) |
+| Aurasmaa Ellinoora | Tuoteäällikkö (Product Manager) | Monitorointi (Service monitoring) |
 | Autio Sami | Tuoteomistaja (Product Owner) | Orkestrointi (Service Orchestration) |
-| Avela Miika | TestauspÃ¤Ã¤likkÃ¶ (Test Manager) | Dokumentinhallinta (Document Management) |
+| Avela Miika | Testauspäällikkö (Test Manager) | Dokumentinhallinta (Document Management) |
 | Gusgård Emil | Ohjelmoija (Programmer) | Dokumenttien metamallit (Document Metamodel) |
 | Hakala Janne | Prosessin omistaja (Process owner) | ketterÃ¤kehittÃ¤minen (Agile Development) |
 | Heilimo Eppu | Ohjelmistoarkkitehti (Software architech) | Vesiputousmalli (Water Fall model) |
 | Huuhka Mikko | Testaaja (Test Engineer) | Rational Unified Process (RUP) |
-| Karjalainen Risto | TukihenkilÃ¶ (Support Person) | Katselmointi (Review) |
-| Karvonen Aki | ProjektipÃ¤Ã¤likkÃ¶ (Project Manager) | SAFe (Scalede Agile Framework) |
-| Kauhanen Lauri | LaatupÃ¤Ã¤likkÃ¶(Quality Manager) | CMMi (Capability Maturity Model Integration ) |
+| Karjalainen Risto | Tukihenkilä (Support Person) | Katselmointi (Review) |
+| Karvonen Aki | Projektipäällikkö (Project Manager) | SAFe (Scalede Agile Framework) |
+| Kauhanen Lauri | Laatupäällikkö (Quality Manager) | CMMi (Capability Maturity Model Integration ) |
 | Kivikoura Matias | Vaatimustenhallinta (Requirement Management) | ALM (Application Lifecycle Management) |
 | Kivistö Vesa | Toiminnallinen vaatimus (Functional Requirement) | DevOps |
 | Kokkonen Juha-Matti | Ei-toiminnnallinen vaatimus (Non functional requirement) | Reverse Engineering |
@@ -36,11 +36,11 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 | Lähteinen Joonas | Suunnittelutyöpaja (Design Workshop) | Lean Body of Knowledge |
 | Malm Markus | Suunnitteluajattelu (Design Thinking) | Project Management Body of Knowledge |
 | Manninen Eetu | Koontipalvelin (Build Server) | Enterprise Architecture Body of Knowledge |
-| Mäkelä Antti | "Jatkuvajulkaisu(Continuous delivery) | " | Common Body of Knowledge |
+| Mäkelä Antti | Jatkuvajulkaisu (Continuous delivery) | Common Body of Knowledge |
 | Mäkkinen Lauri | Jatkuva integrointi(Continuous Integration) | Software Engineering Body of Knowledge |
-| Mäntylä-Blå Valtteri | "Laadunvarmistus (Quality Assurance) | " | Architecture Body of Knowledge |
+| Mäntylä-Blå Valtteri | Laadunvarmistus (Quality Assurance) | Architecture Body of Knowledge |
 | Möttölä Janne | Parikoodaus (Pair Programming) | Business Analysis Body of Knowledge |
-| Nissi Juho | kÃ¤Ã¤ntÃ¤jÃ¤ (Compiler) | Information Technology Infrastructure Library ITIL |
+| Nissi Juho | kääntäjä (Compiler) | Information Technology Infrastructure Library ITIL |
 | Nissinen Olli | Laadunvarmistus (Quality Assurance) | Software testing body of knowledge |
 | Nousiainen Miro | Yksikkötestaus (Unit Testing) | Versiohallintahaara (Branch) |
 | Pajukanta Toni | Regressiotestaus (Regression Testing) | Jatkuvajulkaisu (Continuous Delivery) |
@@ -57,7 +57,7 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 | Tommila Aleksi | Versiohallinta (version control) | Tarkistus (Verifiointi) |
 | Tuomela Teemu | Konfiguraatiohallinta(configuration management) | Kelpuutus (Validation) |
 | Valjakka Jesse | Docker-kontti(Docker Container) | Projektisuunnitelma (Project Plan) |
-| VastamÃ¤ki Harri | Mikropalvelu(Micro Service) | Riskien hallinta (Risk Management) |
+| Vastamäki Harri | Mikropalvelu(Micro Service) | Riskien hallinta (Risk Management) |
 | Vuorela Aleksi | Virtuaalikone (Virtual Machine) | Palvelumuotoilija (Service Designer) |
 
 ### Lähteet ja linkit
