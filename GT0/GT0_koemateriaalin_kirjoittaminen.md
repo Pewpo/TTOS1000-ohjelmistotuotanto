@@ -16,7 +16,7 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 | Aurasmaa Ellinoora | TuotepÃ¤Ã¤likkÃ¶ (Product Manager) | Monitorointi (Service monitoring) |
 | Autio Sami | Tuoteomistaja (Product Owner) | Orkestrointi (Service Orchestration) |
 | Avela Miika | TestauspÃ¤Ã¤likkÃ¶ (Test Manager) | Dokumentinhallinta (Document Management) |
-| GusgÃ¥rd Emil | Ohjelmoija (Programmer) | Dokumenttien metamallit (Document Metamodel) |
+| Gusgård Emil | Ohjelmoija (Programmer) | Dokumenttien metamallit (Document Metamodel) |
 | Hakala Janne | Prosessin omistaja (Process owner) | ketterÃ¤kehittÃ¤minen (Agile Development) |
 | Heilimo Eppu | Ohjelmistoarkkitehti (Software architech) | Vesiputousmalli (Water Fall model) |
 | Huuhka Mikko | Testaaja (Test Engineer) | Rational Unified Process (RUP) |
