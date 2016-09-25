@@ -10,10 +10,12 @@ Kun tuotettu  Dokumenttaatio todetaan riittävän valmiiksi (takaraja sovitaan k
 Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 
 
- | Nimi | KÃ¤site 1 | KÃ¤site 2 |
- | :-:|:-:|:-:|
+ | Nimi | Käsite 1 | Käsite 2 |
+ |:-:|:-:|:-:|
  | Ahonen Hanna | Asiakas (Customer) | Versionumerointi |
  | Aurasmaa Ellinoora | TuotepÃ¤Ã¤likkÃ¶ (Product Manager) | Monitorointi (Service monitoring) |
+ 
+ 
  | Autio Sami | Tuoteomistaja (Product Owner) | Orkestrointi (Service Orchestration) |
  | Avela Miika | TestauspÃ¤Ã¤likkÃ¶ (Test Manager) | Dokumentinhallinta (Document Management) |
  | GusgÃ¥rd Emil | Ohjelmoija (Programmer) | Dokumenttien metamallit (Document Metamodel) |
