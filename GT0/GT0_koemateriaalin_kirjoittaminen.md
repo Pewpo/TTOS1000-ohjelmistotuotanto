@@ -24,31 +24,31 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 | Karvonen Aki | ProjektipÃ¤Ã¤likkÃ¶ (Project Manager) | SAFe (Scalede Agile Framework) |
 | Kauhanen Lauri | LaatupÃ¤Ã¤likkÃ¶(Quality Manager) | CMMi (Capability Maturity Model Integration ) |
 | Kivikoura Matias | Vaatimustenhallinta (Requirement Management) | ALM (Application Lifecycle Management) |
-| KivistÃ¶ Vesa | Toiminnallinen vaatimus (Functional Requirement) | DevOps |
+| Kivistö Vesa | Toiminnallinen vaatimus (Functional Requirement) | DevOps |
 | Kokkonen Juha-Matti | Ei-toiminnnallinen vaatimus (Non functional requirement) | Reverse Engineering |
 | Korte Lauri | Vaatimusten jäljitettävyys - (Traceability) | Six Sigma |
 | Kortelainen Joel | Job Story | LEAN Six Sigma |
-| KÃ¤hkÃ¶nen Jani | KÃ¤yttÃ¤jÃ¤tarina - User Story | Just in Time (JIT) |
-| Laube-Pohto Ruben | KÃ¤yttÃ¶tapaus - (Use Case) | LÃ¤pimenoaika (Lead time) |
+| Kähkönen Jani | Käyttäjätarina - User Story | Just in Time (JIT) |
+| Laube-Pohto Ruben | Käyttäjätapaus - (Use Case) | Läpimenoaika (Lead time) |
 | Lehtosaari Henri | UML - (Unified Modeling Language) | Arvovirtakuvaus (Value Stream Map) |
 | LeppÃ¤lahti Marko | Palvelumuotoilu (Service Design) |  Kate |
-| LÃ¤hdemÃ¤ki Atro | LEAN UX | KiinteÃ¤t kustannukset |
-| LÃ¤hteinen Joonas | "Design Workshop | " | Lean Body of Knowledge |
+| LähdemÃ¤ki Atro | LEAN UX | KiinteÃ¤t kustannukset |
+| Lähteinen Joonas | Suunnittelutyöpaja (Design Workshop) | Lean Body of Knowledge |
 | Malm Markus | Suunnitteluajattelu (Design Thinking) | Project Management Body of Knowledge |
 | Manninen Eetu | Koontipalvelin (Build Server) | Enterprise Architecture Body of Knowledge |
-| MÃ¤kelÃ¤ Antti | "Jatkuvajulkaisu(Continuous delivery) | " | Common Body of Knowledge |
-| MÃ¤kinen Lauri | Jatkuva integrointi(Continuous Integration) | Software Engineering Body of Knowledge |
-| MÃ¤ntylÃ¤-BlÃ¥ Valtteri | "Laadunvarmistus (Quality Assurance) | " | Architecture Body of Knowledge |
-| MÃ¶ttÃ¶lÃ¤ Janne | Parikoodaus (Pair Programming) | Business Analysis Body of Knowledge |
+| Mäkelä Antti | "Jatkuvajulkaisu(Continuous delivery) | " | Common Body of Knowledge |
+| Mäkkinen Lauri | Jatkuva integrointi(Continuous Integration) | Software Engineering Body of Knowledge |
+| Mäntylä-Blå Valtteri | "Laadunvarmistus (Quality Assurance) | " | Architecture Body of Knowledge |
+| Möttölä Janne | Parikoodaus (Pair Programming) | Business Analysis Body of Knowledge |
 | Nissi Juho | kÃ¤Ã¤ntÃ¤jÃ¤ (Compiler) | Information Technology Infrastructure Library ITIL |
 | Nissinen Olli | Laadunvarmistus (Quality Assurance) | Software testing body of knowledge |
 | Nousiainen Miro | Yksikkötestaus (Unit Testing) | Versiohallintahaara (Branch) |
 | Pajukanta Toni | Regressiotestaus (Regression Testing) | Jatkuvajulkaisu (Continuous Delivery) |
 | Pakkanen Mikko | Julkaisusuunnittelu (Release Management) | Jatkuvasuunnittelu (Continuous Planning) |
-| Pylvinen Joonas | KÃ¤yttÃ¶Ã¶notto (Deployment) | Liiketoiminantavoite (Business Goal) |
-| Rantala Kalle | YllÃ¤pito (Maintenance) | Palvelukuvaus (Service Description) |
+| Pylvinen Joonas | Käyttöönotto (Service Deployment) | Liiketoiminantavoite (Business Goal) |
+| Rantala Kalle | Ylläpito (Maintenance) | Palvelukuvaus (Service Description) |
 | Rimpineva Olli | Vika (Bug) | SLA (Service Level Agreement) |
-| RÃ¤isÃ¤nen Sanna | Virhe (Failure) | Vianhallinta (Incident Managment) |
+| Räsänen Sanna | Virhe (Failure) | Vianhallinta (Incident Managment) |
 | Salonen Simo | Ongelma (Problem) | Logi (Log) |
 | Saukonoja Timo | Poikkeama(Defect) | Ominaisuus/piirre (Feature) |
 | Skott Matias | Kriittinen polku (Critical Path) | Vikatietokanta (Defect Database) |
