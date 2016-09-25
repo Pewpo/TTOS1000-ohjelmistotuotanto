@@ -10,139 +10,55 @@ Kun tuotettu  Dokumenttaatio todetaan riittävän valmiiksi (takaraja sovitaan k
 Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 
 
-| Tiimi A | [Käsite]() |
-|:-:|:-:|:-:| Muuta |
-| Tiimi A | [Käsiteet]() | - | 
-| Tiimi B | [Käsiteet]() | - | 
-| Tiimi C | [Käsiteet]() | - | 
-| Tiimi D | [Käsiteet]() | - | 
-| Tiimi E | [Käsiteet]() | - | 
-| Tiimi F | [Käsiteet]() | - | 
-
-### Roolit
-
-* Asiakas
-* Tuotepäälikkö (Product Manager)
-* Tuoteomistaja (Product Owner)
-* Testauspäälikkö (Test Manager)
-* Ohjelmoija (Programmer)
-* Prosessin omistaja (Process owner)
-* Ohjelmistoarkkitehti (Software architech)
-* Testaaja (Test Engineer)
-* Tukihenkilö (Support Person)
-* Projektipäälikkö (Project Manager)
-* Laatupäälikkö(Quality Manager)
-
-
-
-###Määrittely
-
-* Vaatimustenhallinta (Requirement Management)
-* Toiminnallinen vaatimus (Functional Requirement)
-* Ei-toiminnnallinen vaatimus (Non functional requirement)
-* Vaatimusten jäljitettävyys - (Traceability)
-* Job Story
-* Käyttäjätarina - User Story
-* Käyttötapaus - (Use Case)
-* UML - (Unified Modeling Language)
-*
-
-###Suunnittelu
-
-* Palvelumuotoilu (Service Design), 
-* LEAN UX, 
-* Design Workshop, 
-* Suunnitteluajattelu (Design Thinking)
-
-###Toteutus
-
-* (Koontipalvelin) build-server, 
-* Jatkuvajulkaisu(Continuous delivery), 
-* jatkuva integrointi(Continuous Integration) 
-* laadunvarmistus (Quality Assurance), 
-* parikoodaus (Pair Programming)
-* kääntäjä (Compiler)
-
-###Laadunvarmistus
-
-* QA
-
-###Testaus
-
-* Yksikkötestaus (Unit Testing) 
-* Regressiotestaus
-
-###Vianhallinta
-
-* Julkaisu (Releasing)
-* Käyttöönotto (Deployment)
-* Ylläpito (Maintenance)
-* Vika (Bug)
-* Virhe (Failure)
-* Ongelma (Problem)
-* (Defect)
-
-###Tuotehallinta
-
-* kriittinen polku (Critical Path), 
-* Julkaisusuunnitelma (Release Plan),  
-* julkaisu (Release)
-* Versiohallinta (version control)
-* Konfiguraatiohallinta(configuration management)
-* kontti(Container)  
-* Versionumerointi
-* 
-
-###Ylläpito
-
-* Monitorointi (Service monitoring)
-* orkestrointi (Orchestration)
-* Julkaisu (Deployment)
-
-###Dokumentointi
-
-* Dokumentinhallinta (Document Management)
-* Dokumenttien metamallit (Document Metamodel)
-* 
-
-### Prosessit
-
-* ketteräkehittäminen (Agile Development)
-* vesiputousmalli (Water Fall model)
-* Rational Unified Process (RUP),
-* Katselmointi (review)
-* [SAFe](http://www.scaledagileframework.com/)
-* CMMi
-* ALM
-* DevOps
-* Reverse Engineering
-* Six Sigma
-* LEAN Six Sigma
-
-### LEAN
-
-* Just in Time (JIT)
-* Läpimenoaika (Lead time)
-* Arvovirtakuvaus (Value Stream Map)
-
-### Liiketoiminta
-
-* Kate
-* Kiinteät kustannukset
-* 
- 
-### BOK's
-
-
-* Lean Body of Knowledge
-* Project Management Body of Knowledge
-* Enterprise Architecture Body of Knowledge
-* Common Body of Knowledge
-* Software Engineering Body of Knowledge
-* Architecture Body of Knowledg
-* Business Analysis Body of Knowledge
-* Information Technology Infrastructure Library ITIL
-* Software testing body of knowledge
+ | Nimi | KÃ¤site 1 | KÃ¤site 2 |
+ | :-:|:-:|:-:|
+ | Ahonen Hanna | Asiakas (Customer) | Versionumerointi |
+ | Aurasmaa Ellinoora | TuotepÃ¤Ã¤likkÃ¶ (Product Manager) | Monitorointi (Service monitoring) |
+ | Autio Sami | Tuoteomistaja (Product Owner) | Orkestrointi (Service Orchestration) |
+ | Avela Miika | TestauspÃ¤Ã¤likkÃ¶ (Test Manager) | Dokumentinhallinta (Document Management) |
+ | GusgÃ¥rd Emil | Ohjelmoija (Programmer) | Dokumenttien metamallit (Document Metamodel) |
+ | Hakala Janne | Prosessin omistaja (Process owner) | ketterÃ¤kehittÃ¤minen (Agile Development) |
+ | Heilimo Eppu | Ohjelmistoarkkitehti (Software architech) | Vesiputousmalli (Water Fall model) |
+ | Huuhka Mikko | Testaaja (Test Engineer) | Rational Unified Process (RUP) |
+ | Karjalainen Risto | TukihenkilÃ¶ (Support Person) | Katselmointi (Review) |
+ | Karvonen Aki | ProjektipÃ¤Ã¤likkÃ¶ (Project Manager) | SAFe (Scalede Agile Framework) |
+ | Kauhanen Lauri | LaatupÃ¤Ã¤likkÃ¶(Quality Manager) | CMMi (Capability Maturity Model Integration ) |
+ | Kivikoura Matias | Vaatimustenhallinta (Requirement Management) | ALM (Application Lifecycle Management) |
+ | KivistÃ¶ Vesa | Toiminnallinen vaatimus (Functional Requirement) | DevOps |
+ | Kokkonen Juha-Matti | Ei-toiminnnallinen vaatimus (Non functional requirement) | Reverse Engineering |
+ | Korte Lauri | Vaatimusten jäljitettävyys - (Traceability) | Six Sigma |
+ | Kortelainen Joel | Job Story | LEAN Six Sigma |
+ | KÃ¤hkÃ¶nen Jani | KÃ¤yttÃ¤jÃ¤tarina - User Story | Just in Time (JIT) |
+ | Laube-Pohto Ruben | KÃ¤yttÃ¶tapaus - (Use Case) | LÃ¤pimenoaika (Lead time) |
+ | Lehtosaari Henri | UML - (Unified Modeling Language) | Arvovirtakuvaus (Value Stream Map) |
+ | LeppÃ¤lahti Marko | Palvelumuotoilu (Service Design) |  Kate |
+ | LÃ¤hdemÃ¤ki Atro | LEAN UX | KiinteÃ¤t kustannukset |
+ | LÃ¤hteinen Joonas | "Design Workshop | " | Lean Body of Knowledge |
+ | Malm Markus | Suunnitteluajattelu (Design Thinking) | Project Management Body of Knowledge |
+ | Manninen Eetu | Koontipalvelin (Build Server) | Enterprise Architecture Body of Knowledge |
+ | MÃ¤kelÃ¤ Antti | "Jatkuvajulkaisu(Continuous delivery) | " | Common Body of Knowledge |
+ | MÃ¤kinen Lauri | Jatkuva integrointi(Continuous Integration) | Software Engineering Body of Knowledge |
+ | MÃ¤ntylÃ¤-BlÃ¥ Valtteri | "Laadunvarmistus (Quality Assurance) | " | Architecture Body of Knowledge |
+ | MÃ¶ttÃ¶lÃ¤ Janne | Parikoodaus (Pair Programming) | Business Analysis Body of Knowledge |
+ | Nissi Juho | kÃ¤Ã¤ntÃ¤jÃ¤ (Compiler) | Information Technology Infrastructure Library ITIL |
+ | Nissinen Olli | Laadunvarmistus (Quality Assurance) | Software testing body of knowledge |
+ | Nousiainen Miro | Yksikkötestaus (Unit Testing) | Versiohallintahaara (Branch) |
+ | Pajukanta Toni | Regressiotestaus (Regression Testing) | Jatkuvajulkaisu (Continuous Delivery) |
+ | Pakkanen Mikko | Julkaisusuunnittelu (Release Management) | Jatkuvasuunnittelu (Continuous Planning) |
+ | Pylvinen Joonas | KÃ¤yttÃ¶Ã¶notto (Deployment) | Liiketoiminantavoite (Business Goal) |
+ | Rantala Kalle | YllÃ¤pito (Maintenance) | Palvelukuvaus (Service Description) |
+ | Rimpineva Olli | Vika (Bug) | SLA (Service Level Agreement) |
+ | RÃ¤isÃ¤nen Sanna | Virhe (Failure) | Vianhallinta (Incident Managment) |
+ | Salonen Simo | Ongelma (Problem) | Logi (Log) |
+ | Saukonoja Timo | Poikkeama(Defect) | Ominaisuus/piirre (Feature) |
+ | Skott Matias | Kriittinen polku (Critical Path) | Vikatietokanta (Defect Database) |
+ | Taponen Santeri | Julkaisusuunnitelma (Release Plan) | Muutospyyntö(Change Request) |
+ | Tella Mikko | Julkaisu (Release) | Vikaraportti (Bug Report) |
+ | Tommila Aleksi | Versiohallinta (version control) | Tarkistus (Verifiointi) |
+ | Tuomela Teemu | Konfiguraatiohallinta(configuration management) | Kelpuutus (Validation) |
+ | Valjakka Jesse | Docker-kontti(Docker Container) | Projektisuunnitelma (Project Plan) |
+ | VastamÃ¤ki Harri | Mikropalvelu(Micro Service) | Riskien hallinta (Risk Management) |
+ | Vuorela Aleksi | Virtuaalikone (Virtual Machine) | Palvelumuotoilija (Service Designer) |
 
 ### Lähteet ja linkit
 
