@@ -31,8 +31,8 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 | Kähkönen Jani | Käyttäjätarina - User Story | Just in Time (JIT) |
 | Laube-Pohto Ruben | Käyttäjätapaus - (Use Case) | Läpimenoaika (Lead time) |
 | Lehtosaari Henri | UML - (Unified Modeling Language) | Arvovirtakuvaus (Value Stream Map) |
-| LeppÃ¤lahti Marko | Palvelumuotoilu (Service Design) |  Kate |
-| LähdemÃ¤ki Atro | LEAN UX | KiinteÃ¤t kustannukset |
+| LeppÃ¤lahti Marko | Palvelumuotoilu (Service Design) | Agile Theme |
+| LähdemÃ¤ki Atro | LEAN UX | Agile Epic |
 | Lähteinen Joonas | Suunnittelutyöpaja (Design Workshop) | Lean Body of Knowledge |
 | Malm Markus | Suunnitteluajattelu (Design Thinking) | Project Management Body of Knowledge |
 | Manninen Eetu | Koontipalvelin (Build Server) | Enterprise Architecture Body of Knowledge |
