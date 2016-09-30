@@ -9,6 +9,8 @@ Erityisen tärkeää on kerätä jokaisen käsite/aihekokonaisuuden sivun loppuu
 Kun tuotettu  Dokumenttaatio todetaan riittävän valmiiksi (takaraja sovitaan kurssin aikana) se viedään läpi Urkund järjestelmän, jonka avulla tarkistetaan onko sisällössä käytetty plagioitua tekstiä!
 Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 
+HARJOITUS LÖYTYY [TÄÄLTÄ!](https://github.com/JAMK-IT/IIO12110-harjoitus-gt0/wiki)
+
 ### Lähteet ja linkit
 
 ### Tavoite:
