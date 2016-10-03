@@ -6,12 +6,18 @@ Tutustutaan varsin yleiseen [Atlassian-työkaluketjuun](https://www.atlassian.co
 Tämä tehtävä ei ole "mainos", koska ko. työvälineet ovat varsin yleisiä yrityksissä ja on oleellista tuntea hieman niiden taustaa. Tässä tehtävässä keskitytään Confluence-wikin toimintaan.
 Jokainen ryhmä aktivoi kahden viikon mittaisen  "try"-version Confluence ja Jira palveluista.
 
+### Dokumentin hallinnan prosessi
+
+![JIRA dokumentinhallinta prosessin ohjauksessa](https://confluence.atlassian.com/jiracorecloud/files/803373920/803373923/1/1455171784603/processmanagementcore.png)
+
 
 
 ### Lähteet ja linkit
 
 * [Confluence introduction](https://www.youtube.com/watch?v=y1YTsMTrC7c)
 * [JIRA-ohjeet](http://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html)
+
+
 
 ### Tavoite:
 
