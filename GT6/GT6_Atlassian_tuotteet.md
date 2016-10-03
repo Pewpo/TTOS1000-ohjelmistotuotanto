@@ -10,7 +10,7 @@ Jokainen ryhmä aktivoi kahden viikon mittaisen  "try"-version Confluence ja Jir
 
 ![JIRA dokumentinhallinta prosessin ohjauksessa](https://confluence.atlassian.com/jiracorecloud/files/803373920/803373923/1/1455171784603/processmanagementcore.png)
 
-
+[Lähde: Confluence guide](https://confluence.atlassian.com/jiracorecloud/process-management-with-jira-780866595.html)
 
 ### Lähteet ja linkit
 
