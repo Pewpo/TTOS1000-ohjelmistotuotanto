@@ -1,17 +1,17 @@
-### Harjoitus:  LEAN ja ketteräkehitys
+### Harjoitus:  Atlassian tuoteperhe (Confluence + JIRA)
 
 ### Tehtäväkuvaus:
 
-Tutustutaan muutamiin ajankohtaisiin käsitteiden ohella LEAN ajatteluun ja ketterän kehittämisen periaatteisiin.. 
+Tutustutaan varsin yleiseen Atlassian-työkaluketjuun
+
+
+Ryhmä ottaa käyttöön trial version Confluence ja Jira palveluista.
+
+
 
 Ryhmä valitsee yhden aihe alueen ja koostaa siitä raportin
 
-* [LeanStartup]()
-* [InternalStartup](http://www.n4s.fi/publication/cookbook-successful-internal-startups/)
-* [SAFe](http://www.scaledagileframework.com/)
-* Mitä on ketterä projektinhallinta?
-* Jatkuva suunnittelu (Continuous Planning)
-* Pull vaikutus
+
 
 
 
@@ -23,5 +23,11 @@ Ryhmä valitsee yhden aihe alueen ja koostaa siitä raportin
 
 
 ### Arviointi:
+
+Hyväksyntätesti: 
+
+* Tunnet Confluence Space käsitteen ja osaat tehdä tarvittaessa uuden
+* Osaa luoda uuden wiki-sivun ja linkittää sen toiseen wiki-sivuun
+* Osaat linkittää informaatiota (Sivuja, kuvia ja muuta materiaalia) wiki-sivun sisällöksi
 
 
