@@ -9,9 +9,6 @@ Jokainen ryhmä aktivoi kahden viikon mittaisen  "try"-version Confluence ja Jir
 
 
 
-
-
-
 ### Lähteet ja linkit
 
 
