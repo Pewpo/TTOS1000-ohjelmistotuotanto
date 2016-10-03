@@ -33,7 +33,7 @@ Tiimin jäsen varautuu suorittamaan pyydettäessä seuraavan hyväksyntätestin.
 * Osaat luoda uusia tunnuksia
 * Osaa luoda ko. spaceen uusia wiki-sivuja ja linkittää niitä toisiin sivuihin
 * Osaat linkittää informaatiota (sivuja, kuvia ja muuta materiaalia) ulkopuolelta oman wiki-sivun sisällöksi
-* Osaat linkittää issuen JIRA-kannasta sivun osaksi
+* Osaat linkittää issuen JIRA-kannasta sivun osaksi (Kunhan JIRA on käsitelty)
 * Tiedät mitä voit tedä "Labeleilla"
 * Osaat tuottaa wiki-sivuista PDF-dokumentteja
 
