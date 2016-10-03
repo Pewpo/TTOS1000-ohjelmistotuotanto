@@ -2,14 +2,11 @@
 
 ### Tehtäväkuvaus:
 
-Tutustutaan varsin yleiseen Atlassian-työkaluketjuun
+Tutustutaan varsin yleiseen [Atlassian-työkaluketjuun](https://www.atlassian.com/try)
+Tämä ei ole mainos, koska ko. työvälineet ovat varsin yleisiä yrityksissä ja on oleellista tunta hieman niiden taustaa
 
+Jokainen ryhmä aktivoi kahden viikon mittaisen  "try"-version Confluence ja Jira palveluista.
 
-Ryhmä ottaa käyttöön trial version Confluence ja Jira palveluista.
-
-
-
-Ryhmä valitsee yhden aihe alueen ja koostaa siitä raportin
 
 
 
@@ -21,13 +18,16 @@ Ryhmä valitsee yhden aihe alueen ja koostaa siitä raportin
 
 ### Tavoite:
 
+Tuntea Confluencen perusperiaatteet
 
 ### Arviointi:
 
-Hyväksyntätesti: 
+Hyväksytty/Hylätty
+
+Tiimin jäsen varautuu suorittamaan pyydettäessä seuraavan hyväksyntätestin. 
 
 * Tunnet Confluence Space käsitteen ja osaat tehdä tarvittaessa uuden
-* Osaa luoda uuden wiki-sivun ja linkittää sen toiseen wiki-sivuun
-* Osaat linkittää informaatiota (Sivuja, kuvia ja muuta materiaalia) wiki-sivun sisällöksi
-
+* Osaa luoda ko. spaceen uusia wiki-sivuja ja linkittää niitä toisiin sivuihin
+* Osaat linkittää informaatiota (sivuja, kuvia ja muuta materiaalia) ulkopuolelta oman wiki-sivun sisällöksi
+* Osaat linkittää issuen JIRA-kannasta sivun osaksi
 
