@@ -2,7 +2,7 @@
 
 ### Tehtäväkuvaus:
 
-Tutustutaan varsin yleiseen [Atlassian-työkaluketjuun](https://www.atlassian.com/try)
+Tutustutaan varsin yleiseen [Atlassian-työkaluketjuun](https://www.atlassian.com/software/confluence/try)
 Tämä ei ole mainos, koska ko. työvälineet ovat varsin yleisiä yrityksissä ja on oleellista tunta hieman niiden taustaa
 
 Jokainen ryhmä aktivoi kahden viikon mittaisen  "try"-version Confluence ja Jira palveluista.
