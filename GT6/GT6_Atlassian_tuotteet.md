@@ -11,7 +11,8 @@ Jokainen ryhmä aktivoi kahden viikon mittaisen  "try"-version Confluence ja Jir
 
 ### Lähteet ja linkit
 
-
+* [Confluence introduction](https://www.youtube.com/watch?v=y1YTsMTrC7c)
+* [JIRA-ohjeet](http://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html)
 
 ### Tavoite:
 
@@ -23,8 +24,12 @@ Hyväksytty/Hylätty
 
 Tiimin jäsen varautuu suorittamaan pyydettäessä seuraavan hyväksyntätestin. 
 
-* Tunnet Confluence Space käsitteen ja osaat tehdä tarvittaessa uuden
+* Tunnet Confluencen space-käsitteen ja osaat tehdä tarvittaessa uuden
+* Osaat luoda uusia tunnuksia
 * Osaa luoda ko. spaceen uusia wiki-sivuja ja linkittää niitä toisiin sivuihin
 * Osaat linkittää informaatiota (sivuja, kuvia ja muuta materiaalia) ulkopuolelta oman wiki-sivun sisällöksi
 * Osaat linkittää issuen JIRA-kannasta sivun osaksi
+* Tiedät mitä voit tedä "Labeleilla"
+
+
 
