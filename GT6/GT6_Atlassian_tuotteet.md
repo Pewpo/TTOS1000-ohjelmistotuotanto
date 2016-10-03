@@ -3,8 +3,7 @@
 ### Tehtäväkuvaus:
 
 Tutustutaan varsin yleiseen [Atlassian-työkaluketjuun](https://www.atlassian.com/software/confluence/try)
-Tämä ei ole mainos, koska ko. työvälineet ovat varsin yleisiä yrityksissä ja on oleellista tunta hieman niiden taustaa
-
+Tämä tehtävä ei ole "mainos", koska ko. työvälineet ovat varsin yleisiä yrityksissä ja on oleellista tuntea hieman niiden taustaa. Tässä tehtävässä keskitytään Confluence-wikin toimintaan.
 Jokainen ryhmä aktivoi kahden viikon mittaisen  "try"-version Confluence ja Jira palveluista.
 
 
@@ -16,7 +15,7 @@ Jokainen ryhmä aktivoi kahden viikon mittaisen  "try"-version Confluence ja Jir
 
 ### Tavoite:
 
-Tuntea Confluencen perusperiaatteet
+Tuntea Confluencen perusperiaatteet ja tarvittaessa ottaa se käyttöön pieneen projektiin.
 
 ### Arviointi:
 
@@ -30,6 +29,7 @@ Tiimin jäsen varautuu suorittamaan pyydettäessä seuraavan hyväksyntätestin.
 * Osaat linkittää informaatiota (sivuja, kuvia ja muuta materiaalia) ulkopuolelta oman wiki-sivun sisällöksi
 * Osaat linkittää issuen JIRA-kannasta sivun osaksi
 * Tiedät mitä voit tedä "Labeleilla"
+* Osaat tuottaa wiki-sivuista PDF-dokumentteja
 
 
 
