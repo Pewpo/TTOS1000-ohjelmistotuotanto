@@ -25,9 +25,11 @@ Tuntea Confluencen perusperiaatteet ja tarvittaessa ottaa se käyttöön pieneen
 
 ### Arviointi:
 
+Työ esitellän ohjaajalle tuntien aikana tai sopivassa tilaisuudessa. 
+
 Hyväksytty/Hylätty
 
-Tiimin jäsen varautuu suorittamaan pyydettäessä seuraavan hyväksyntätestin. 
+Projektiryhmän jäsenet varautuvat suorittamaan pyydettäessä seuraavan "hyväksyntätestin". 
 
 * Tunnet Confluencen space-käsitteen ja osaat tehdä tarvittaessa uuden
 * Osaat luoda uusia tunnuksia
