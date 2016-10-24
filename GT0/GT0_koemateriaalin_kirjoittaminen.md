@@ -13,6 +13,9 @@ HARJOITUS LÖYTYY [TÄÄLTÄ!](https://github.com/JAMK-IT/IIO12110-harjoitus-gt0
 
 ### Lähteet ja linkit
 
+* AIKATAULU 7.11.Tekstit valmiina tarkistettavaksi Urkundissa!
+* TENTTI 14.11.2016 !
+
 ### Tavoite:
 
 Tutustua tärkeisiin käsitteisiin ja valmistautua kohtaamaan tilaaja :)
