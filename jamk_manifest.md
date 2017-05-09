@@ -2,7 +2,7 @@
 
 ###Kurssin sisältö
 
-Opintojaksossa tutustutaan oleellisiin menetelmiin, joita käytetään tämän päivän tuotekehityksessä. Kurssin tehtävän on antaa pohjaa projektikurssin (IIO12200) suorittamiseen. 
+Opintojaksossa tutustutaan oleellisiin menetelmiin, joita käytetään tämän päivän tuotekehityksessä. Kurssin tehtävän on antaa pohjaa projektikurssin (TTOS1000) suorittamiseen. 
 Lisäksi perehdytään ohjelmistotuotannon keskeisiin kysymyksiin yrityksen tuotantoprosessin, liiketalouden ja laadun näkökulmasta vierailijaluentojen muodossa.
 
 ###Tavoitteet
