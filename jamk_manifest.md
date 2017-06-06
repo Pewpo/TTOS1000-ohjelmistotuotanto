@@ -1,4 +1,4 @@
-##TTOS1000 Ohjelmistotuotanto
+## TTOS1000 Ohjelmistotuotanto
 
 ### Kurssin sisältö
 
