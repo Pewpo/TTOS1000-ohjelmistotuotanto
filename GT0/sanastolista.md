@@ -8,9 +8,9 @@
 | - | [Ohjelmoija - Programmer](ohjelmoija) | [Dokumentin metatietomalli - Document Metamodel](dokumenttien-metamallit) | - |
 | - | [Prosessin omistaja - Process owner](prosessinomistaja) | [Kettera kehittaminen - Agile development](kettera kehittaminen) | - |
 | - | [Ohjelmistoarkkitehti (Software architech)](ohjelmistoarkkitehti-(Software-architech)) | [Vesiputousmalli (Water Fall model)](Vesiputousmalli) |  - |
-| - | [Testaaja (Test Engineer)](Testaaja) | [Rational Unified Process (RUP)](Rational-unified-process-(RUP)) | - |
+| - | [Yksikkötesti](unit-test) | [Rational Unified Process (RUP)](rational-unified-process) | - |
 | - | [Tukihenkilo - Support Person](tukihenkilo) | [Katselmointi (Review)](katselmointi) | - |
-| - | [Projektipaallikko - Project Manager]() | [SAFe](Scalede Agile Framework) | - |
+| - | [Projektipaallikko - Project Manager]() | [SAFe](scalede-agile-framework) | - |
 | - | [Laatupaallikko - Quality Manager](laatupaallikko) | [CMMi](cmmi) | - |
 | - | [Vaatimustenhallinta - Requirement Management](vaatimustenhallinta) | [ALM - Application Lifecycle Management](application-lifecycle-management) | - |
 | - | [Toiminnallinen vaatimus (Functional Requirement)](toiminnallinen-vaatimus) | [DevOps](devops) | - |
@@ -18,7 +18,7 @@
 | - | [Vaatimusten jaljitettavyys - (Traceability)](traceability) | [Six Sigma](six-sigma) |- |
 | - | [Tyotarina - Job Story](tyotarina) | [LEAN Six Sigma](lean-six-sigma) | - |
 | - | [Kayttajatarina - User Story](kayttajatarina) | [Just in Time - JIT](just-in-time) | - |
-| - | [Kayttajatapaus - Use Case ](kayttajatapaus) | [Lapimenoaika - Lead time](lapimenoaika) | - |
+| - | [Kayttötapaus - Use Case ](kayttotapaus) | [Lapimenoaika - Lead time](lapimenoaika) | - |
 | - | [UML - Unified Modeling Language](UML) | [Arvovirtakuvaus -Value Stream Map](arvovirtakuvaus) | - |
 | - | [Palvelumuotoilu - Service Design](Palvelumuotoilu) | [Agile Theme](Agile-Theme) |- |
 | - | [LEAN UX](Lean-Ux) | [Agile Epic](Agile-Epic) |- |
@@ -48,7 +48,7 @@
 | - | [Mikropalvelu - Micro Service](mikropalvelu) | [Riskien hallinta - Risk Management](riskienhallinta) |- |
 | - | [Virtuaalikone - Virtual Machine)](vvirtuaalikone) | [Palvelumuotoilija - Service Designer)](palvelumuotoilija) |- |
 | - | [Vagrant-teknologia - Vagrant technology](vagrant-technology) | [Ohjelmistotuotanto](Ohjelmistotuotanto) |
-| - | [Systeemi ajattelu - System Thinking](systeemiajattelu) |  | 
+| - | [Systeemi ajattelu - System Thinking](systeemiajattelu) | [ohjelmistotestaaja - software tester](ohjelmistotestaaja)  | 
 
 
 
