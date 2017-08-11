@@ -1,50 +1,54 @@
 
 | Nimi | Kasite 1 | Kasite 2 | Kasite 3 |
 |:-:|:-:|:-:| :-:|
-| - | [Asiakas - Customer](aihe-asiakas) | [Versionumerointi](aihe-versionumerointi) |- |
-| - | [Tuoteaallikko - Product Manager](aihe-Tuotepaallikko) | [Palvelun monitorointi - Service monitoring)](aihe-Monitorointi) |- |
-| - | [Tuoteomistaja - Product Owner](aihe-tuoteomistaja) | [Orkestrointi - Service Orchestration)](aihe-orkestrointi) |- |
-| - | [Testauspaallikko - Test Manager)](aihe-testauspaallikko) | [Dokumentinhallinta - Document Management)](aihe-dokumentinhallinta) |- |
-| - | [Ohjelmoija - Programmer](aihe-ohjelmoija) | [Dokumentin metatietomalli - Document Metamodel](aihe-dokumenttien-metamallit) | - |
-| - | [Prosessin omistaja - Process owner](aihe-prosessinomistaja) | [Kettera kehittaminen - Agile development](aihe-kettera kehittaminen) | - |
-| - | [Ohjelmistoarkkitehti (Software architech)](aihe-ohjelmistoarkkitehti-(Software-architech)) | [Vesiputousmalli (Water Fall model)](aihe-Vesiputousmalli) |- |
-| - | [Testaaja (Test Engineer)](aihe-Testaaja) | [Rational Unified Process (RUP)](aihe-Rational-unified-process-(RUP)) |- |
-| - | [Tukihenkilo - Support Person](aihe-tukihenkilo) | [Katselmointi (Review)](aihe-katselmointi) |- |
-| - | [Projektipaallikko - Project Manager]() | [SAFe](Scalede Agile Framework) |- |
-| - | [Laatupaallikko - Quality Manager](aihe-laatupaallikko) | [CMMi](aihe-cmmi) |- |
-| - |  [Vaatimustenhallinta - Requirement Management](aihe-vaatimustenhallinta) | [ALM - Application Lifecycle Management](aihe-application-lifecycle-management) |- |
-| - | [Toiminnallinen vaatimus (Functional Requirement)](aihe-toiminnallinen-vaatimus) | [DevOps](aihe-devops) |- |
-| - | [Ei-toiminnnallinen vaatimus - Non functional requirement](aihe-Ei-toiminnalinen-vaatimus) | [Reverse Engineering](aihe-Reverse-Engineering) |- |
-| - | [Vaatimusten jaljitettavyys - (Traceability)](aihe-traceability) | [Six Sigma](aihe-six-sigma) |- |
-| - | [Tyotarina - Job Story](aihe-tyotarina) | [LEAN Six Sigma](aihe-lean-six-sigma) |- |
-| - | [Kayttajatarina - User Story](aihe-kayttajatarina) | [Just in Time - JIT](aihe-just-in-time) |- |
-| - | [Kayttajatapaus - Use Case ](aihe-kayttajatapaus) | [Lapimenoaika - Lead time](aihe-lapimenoaika) |- |
-| - | [UML - Unified Modeling Language](aihe-UML) | [Arvovirtakuvaus -Value Stream Map](aihe-arvovirtakuvaus) |- |
-| - | [Palvelumuotoilu - Service Design](aihe-Palvelumuotoilu) | [Agile Theme](aihe-Agile-Theme) |- |
-| - | [LEAN UX](aihe-Lean-Ux) | [Agile Epic](aihe-Agile-Epic) |- |
-| - | [Design Workshop (Suunnittelutyöpaja)](aihe-Design-Workshop) | [Lean Body of Knowledge](aihe-Lean-Body-of-Knowledge) | [Ohjelmistotuotanto](aihe-Ohjelmistotuotanto) |- |
-| - | [Suunnitteluajattelu - Design Thinking](aihe-Design-Thinking) | [Project Management Body of Knowledge](aihe-Project-Management-Body-of-Knowledge) |- |
-| - | [Koontipalvelin (Build Server)](aihe-koontipalvelin) | [Enterprise Architecture Body of Knowledge](aihe-enterprise-architecture-body-of-knowledge) |- |
-| - | [Jatkuvajulkaisu (Continuous delivery)](aihe-jatkuva-julkaisu) | [Common Body of Knowledge](aihe-common-body-of-knowledge) |- |
-| - | [Jatkuva integrointi(Continuous Integration)](aihe-Jatkuva-integrointi) | [Software Engineering Body of Knowledge](aihe-Software-Engineering-Body-of-Knowledge) |- |
-| - | [Laadunvarmistus (Quality Assurance)](aihe-laadunhallinta) | [Internet of Things](aihe-Esineiden-Internet) |- |
-| - | [Parikoodaus](aihe-parikoodaus) | [Business Analysis Body of Knowledge](aihe-business-analysis-body-of-knowledge) |- |
-| - | [kaantaja (Compiler)](aihe-kaantaja(compiler)) | [Information Technology Infrastructure Library ITIL](aihe-itil) |- |
-| - | [Laadunvarmistus (Quality Assurance)](aihe-laadunvarmistus) | [Software testing body of knowledge](aihe-software-testing-body-of-knowledge) |- |
-| - | [Yksikkotestaus (Unit Testing)](aihe-Yksikkotestaus) | [Versiohallintahaara (Branch)](aihe-versiohallintahaara) |- |
-| - |  [Regressiotestaus (Regression Testing)](aihe-regressio-testaus) | [Jatkuvajulkaisu (Continuous Delivery)](aihe-jatkuvajulkaisu) |- |
-| - |  [Julkaisusuunnittelu (Release Management)](aihe-julkaisusuunnittelu) | [Jatkuvasuunnittelu (Continuous Planning)](aihe-jatkuvasuunnittelu) |- |
-| - |  [Kayttoonotto (Service Deployment)](aihe-regressio-testaus) | [Liiketoiminantavoite (Business Goal)](aihe-liiketoimintatavoite) |- |
-| - |  [Yllapito (Maintenance)](aihe-yllapito) | Palvelukuvaus (Service Description) |- |
-| - |  [Vika - Bug](aihe-Vika-(bug)) | [SLA (Service Level Agreement](aihe SLA (Service Level Agreement)) |- |
-| - |  [Virhe - Failure](aihe-Virhe) |[Vianhallinta (Incident management)](aihe-Vianhallinta) |- |
-| - |  [Ongelma](aihe-ongelma) | [Logi](aihe-logi) |- |
-| - |  [Poikkeama - Defect](aihe Poikkeama(Defect)) | [Ominaisuus/piirre (Feature)](aihe Ominaisuus piirre (Feature)) |- |
-| - |  [Kriittinen polku - Critical Path](aihe-Kriittinen-polku) | :skull: [Vikatietokanta - Defect Database]() | - |
-| - |  [Julkaisusuunnitelma - Release Plan](aihe-julkaisusuunnitelma)  | [Muutospyynto - Change Request](aihe-muutospyynto)  | - |
-| - |  [Julkaisu - Release](aihe-Julkaisu-(Release)) | [Vikaraportti - Bug report](aihe-Vikaraportti-(Bug-Report))| - |  [Versiohallinta  - version control](aihe-versionhallinta) | [Tarkistus (Verifiointi)](aihe-verifikaatio) | - |
-| - |  [Konfiguraatiohallinta(configuration management)](aihe-konfiguraatiohallinta) | [Kelpuutus (Validation)](aihe-kelpuutus) |- |
-| - |  [Docker-teknologia - Docker Technology](Docker-kontti) | [Projektisuunnitelma (Project Plan)](aihe-Projektisuunnitelma) |- |
+| - | [Asiakas - Customer](asiakas) | [Versionumerointi](versionumerointi) | - |
+| - | [Tuoteaallikko - Product Manager](Tuotepaallikko) | [Palvelun monitorointi - Service monitoring)](Monitorointi) | - |
+| - | [Tuoteomistaja - Product Owner](tuoteomistaja) | [Orkestrointi - Service Orchestration)](orkestrointi) | - |
+| - | [Testauspaallikko - Test Manager)](testauspaallikko) | [Dokumentinhallinta - Document Management)](dokumentinhallinta) | - |
+| - | [Ohjelmoija - Programmer](ohjelmoija) | [Dokumentin metatietomalli - Document Metamodel](dokumenttien-metamallit) | - |
+| - | [Prosessin omistaja - Process owner](prosessinomistaja) | [Kettera kehittaminen - Agile development](kettera kehittaminen) | - |
+| - | [Ohjelmistoarkkitehti (Software architech)](ohjelmistoarkkitehti-(Software-architech)) | [Vesiputousmalli (Water Fall model)](Vesiputousmalli) |  - |
+| - | [Testaaja (Test Engineer)](Testaaja) | [Rational Unified Process (RUP)](Rational-unified-process-(RUP)) | - |
+| - | [Tukihenkilo - Support Person](tukihenkilo) | [Katselmointi (Review)](katselmointi) | - |
+| - | [Projektipaallikko - Project Manager]() | [SAFe](Scalede Agile Framework) | - |
+| - | [Laatupaallikko - Quality Manager](laatupaallikko) | [CMMi](cmmi) | - |
+| - | [Vaatimustenhallinta - Requirement Management](vaatimustenhallinta) | [ALM - Application Lifecycle Management](application-lifecycle-management) | - |
+| - | [Toiminnallinen vaatimus (Functional Requirement)](toiminnallinen-vaatimus) | [DevOps](devops) | - |
+| - | [Ei-toiminnnallinen vaatimus - Non functional requirement](Ei-toiminnalinen-vaatimus) | [Reverse Engineering](Reverse-Engineering) | - |
+| - | [Vaatimusten jaljitettavyys - (Traceability)](traceability) | [Six Sigma](six-sigma) |- |
+| - | [Tyotarina - Job Story](tyotarina) | [LEAN Six Sigma](lean-six-sigma) | - |
+| - | [Kayttajatarina - User Story](kayttajatarina) | [Just in Time - JIT](just-in-time) | - |
+| - | [Kayttajatapaus - Use Case ](kayttajatapaus) | [Lapimenoaika - Lead time](lapimenoaika) | - |
+| - | [UML - Unified Modeling Language](UML) | [Arvovirtakuvaus -Value Stream Map](arvovirtakuvaus) | - |
+| - | [Palvelumuotoilu - Service Design](Palvelumuotoilu) | [Agile Theme](Agile-Theme) |- |
+| - | [LEAN UX](Lean-Ux) | [Agile Epic](Agile-Epic) |- |
+| - | [Design Workshop (Suunnittelutyöpaja)](Design-Workshop) | [Lean Body of Knowledge](Lean-Body-of-Knowledge) | - | - |
+| - | [Suunnitteluajattelu - Design Thinking](Design-Thinking) | [Project Management Body of Knowledge](Project-Management-Body-of-Knowledge) | - |
+| - | [Koontipalvelin (Build Server)](koontipalvelin) | [Enterprise Architecture Body of Knowledge](enterprise-architecture-body-of-knowledge) | - |
+| - | [Jatkuvajulkaisu (Continuous delivery)](jatkuva-julkaisu) | [Common Body of Knowledge](common-body-of-knowledge) | - |
+| - | [Jatkuva integrointi(Continuous Integration)](Jatkuva-integrointi) | [Software Engineering Body of Knowledge](Software-Engineering-Body-of-Knowledge) | - |
+| - | [Laadunvarmistus (Quality Assurance)](laadunhallinta) | [Internet of Things](Esineiden-Internet) | - |
+| - | [Parikoodaus](parikoodaus) | [Business Analysis Body of Knowledge](business-analysis-body-of-knowledge) | - |
+| - | [kaantaja (Compiler)](kaantaja(compiler)) | [Information Technology Infrastructure Library ITIL](itil) | - |
+| - | [Laadunvarmistus (Quality Assurance)](laadunvarmistus) | [Software testing body of knowledge](software-testing-body-of-knowledge) |- |
+| - | [Yksikkotestaus (Unit Testing)](Yksikkotestaus) | [Versiohallintahaara (Branch)](versiohallintahaara) | - |
+| - | [Regressiotestaus (Regression Testing)](regressio-testaus) | [Jatkuvajulkaisu (Continuous Delivery)](jatkuvajulkaisu) |- |
+| - | [Julkaisusuunnittelu (Release Management)](julkaisusuunnittelu) | [Jatkuvasuunnittelu (Continuous Planning)](jatkuvasuunnittelu) | - |
+| - | [Kayttoonotto (Service Deployment)](regressio-testaus) | [Liiketoiminantavoite (Business Goal)](liiketoimintatavoite) |- |
+| - | [Yllapito (Maintenance)](yllapito) | Palvelukuvaus (Service Description) |- |
+| - | [Vika - Bug](Vika-(bug)) | [SLA Service Level Agreement](service-level-agreement)) |- |
+| - | [Virhe - Failure](Virhe) | [Vianhallinta (Error management)](vianhallinta) |- |
+| - | [Ongelma, virhe, vika](ongelma) | [Logi](logi) |- |
+| - | [Poikkeama - Defect]( Poikkeama(Defect)) | [Ominaisuus/piirre (Feature)]( Ominaisuus piirre (Feature)) | - |
+| - | [Kriittinen polku - Critical Path](Kriittinen-polku) | :skull: [Vikatietokanta - Defect Database]() | - |
+| - | [Julkaisusuunnitelma - Release Plan](julkaisusuunnitelma)  | [Muutospyynto - Change Request](muutospyynto)  | - |
+| - | [Julkaisu - Release](Julkaisu-(Release)) | [Vikaraportti - Bug report](Vikaraportti-(Bug-Report))| - |  [Versiohallinta  - version control](versionhallinta) | [Tarkistus (Verifiointi)](verifikaatio) | - |
+| - | [Konfiguraatiohallinta(configuration management)](konfiguraatiohallinta) | [Kelpuutus (Validation)](kelpuutus) | - |
+| - | [Docker-teknologia - Docker Technology](Docker-kontti) | [Projektisuunnitelma (Project Plan)](Projektisuunnitelma) | - |
 | - | [Mikropalvelu - Micro Service](mikropalvelu) | [Riskien hallinta - Risk Management](riskienhallinta) |- |
 | - | [Virtuaalikone - Virtual Machine)](vvirtuaalikone) | [Palvelumuotoilija - Service Designer)](palvelumuotoilija) |- |
-| - | Vagrant-teknologia - Vagrant technology](vagrant-technology)
+| - | [Vagrant-teknologia - Vagrant technology](vagrant-technology) | [Ohjelmistotuotanto](Ohjelmistotuotanto) |
+| - | [Systeemi ajattelu - System Thinking](systeemiajattelu) |  | 
+
+
+
