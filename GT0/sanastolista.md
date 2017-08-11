@@ -1,5 +1,5 @@
 
-| Nimi | Kasite 1 | Kasite 2 | Kasite 3 |
+| Vast | Kasite 1 | Kasite 2 | Kasite 3 |
 |:-:|:-:|:-:| :-:|
 | - | [Asiakas - Customer](asiakas) | [Versionumerointi](versionumerointi) | - |
 | - | [Tuoteaallikko - Product Manager](Tuotepaallikko) | [Palvelun monitorointi - Service monitoring)](Monitorointi) | - |
