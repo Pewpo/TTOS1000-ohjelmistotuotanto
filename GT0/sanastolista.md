@@ -5,8 +5,8 @@
 | - | [Tuoteaallikko - Product Manager](aihe-Tuotepaallikko) | [Palvelun monitorointi - Service monitoring)](aihe-Monitorointi) |- |
 | - | [Tuoteomistaja - Product Owner](aihe-tuoteomistaja) | [Orkestrointi - Service Orchestration)](aihe-orkestrointi) |- |
 | - | [Testauspaallikko - Test Manager)](aihe-testauspaallikko) | [Dokumentinhallinta - Document Management)](aihe-dokumentinhallinta) |- |
-| - | [Ohjelmoija - Programmer](aihe-ohjelmoija) | [Dokumentin metatietomalli - Document Metamodel](aihe-dokumenttien-metamallit) |- |
-| - | [Prosessin omistaja - Process owner](aihe-prosessinomistaja) | [Kettera kehittaminen - Agile Development](aihe-kettera kehittaminen) |- |
+| - | [Ohjelmoija - Programmer](aihe-ohjelmoija) | [Dokumentin metatietomalli - Document Metamodel](aihe-dokumenttien-metamallit) | - |
+| - | [Prosessin omistaja - Process owner](aihe-prosessinomistaja) | [Kettera kehittaminen - Agile development](aihe-kettera kehittaminen) | - |
 | - | [Ohjelmistoarkkitehti (Software architech)](aihe-ohjelmistoarkkitehti-(Software-architech)) | [Vesiputousmalli (Water Fall model)](aihe-Vesiputousmalli) |- |
 | - | [Testaaja (Test Engineer)](aihe-Testaaja) | [Rational Unified Process (RUP)](aihe-Rational-unified-process-(RUP)) |- |
 | - | [Tukihenkilo - Support Person](aihe-tukihenkilo) | [Katselmointi (Review)](aihe-katselmointi) |- |
@@ -44,6 +44,7 @@
 | - |  [Julkaisusuunnitelma - Release Plan](aihe-julkaisusuunnitelma)  | [Muutospyynto - Change Request](aihe-muutospyynto)  | - |
 | - |  [Julkaisu - Release](aihe-Julkaisu-(Release)) | [Vikaraportti - Bug report](aihe-Vikaraportti-(Bug-Report))| - |  [Versiohallinta  - version control](aihe-versionhallinta) | [Tarkistus (Verifiointi)](aihe-verifikaatio) | - |
 | - |  [Konfiguraatiohallinta(configuration management)](aihe-konfiguraatiohallinta) | [Kelpuutus (Validation)](aihe-kelpuutus) |- |
-| - |  [Docker-kontti - Docker Container](aihe-Docker-kontti) | [Projektisuunnitelma (Project Plan)](aihe-Projektisuunnitelma) |- |
-| - | [Mikropalvelu - Micro Service](aihe-Mikropalvelu) | [Riskien hallinta - Risk Management](aihe-Riskienhallinta) |- |
-| - | [Virtuaalikone - Virtual Machine)](aihe-virtuaalikone) | [Palvelumuotoilija - Service Designer)](aihe-palvelumuotoilija) |- |
+| - |  [Docker-teknologia - Docker Technology](Docker-kontti) | [Projektisuunnitelma (Project Plan)](aihe-Projektisuunnitelma) |- |
+| - | [Mikropalvelu - Micro Service](mikropalvelu) | [Riskien hallinta - Risk Management](riskienhallinta) |- |
+| - | [Virtuaalikone - Virtual Machine)](vvirtuaalikone) | [Palvelumuotoilija - Service Designer)](palvelumuotoilija) |- |
+| - | Vagrant-teknologia - Vagrant technology](vagrant-technology)
