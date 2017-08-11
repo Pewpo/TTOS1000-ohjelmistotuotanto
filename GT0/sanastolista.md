@@ -40,7 +40,7 @@
 | - | [Virhe - Failure](Virhe) | [Vianhallinta (Error management)](vianhallinta) |- |
 | - | [Ongelma, virhe, vika](ongelma) | [Logi](logi) |- |
 | - | [Poikkeama - Defect]( Poikkeama(Defect)) | [Ominaisuus/piirre (Feature)]( Ominaisuus piirre (Feature)) | - |
-| - | [Kriittinen polku - Critical Path](Kriittinen-polku) | :skull: [Vikatietokanta - Defect Database]() | - |
+| - | [Kriittinen polku - Critical Path](Kriittinen-polku) | [Vikatietokanta - Defect Database]() | - |
 | - | [Julkaisusuunnitelma - Release Plan](julkaisusuunnitelma)  | [Muutospyynto - Change Request](muutospyynto)  | - |
 | - | [Julkaisu - Release](Julkaisu-(Release)) | [Vikaraportti - Bug report](Vikaraportti-(Bug-Report))| - |  [Versiohallinta  - version control](versionhallinta) | [Tarkistus (Verifiointi)](verifikaatio) | - |
 | - | [Konfiguraatiohallinta(configuration management)](konfiguraatiohallinta) | [Kelpuutus (Validation)](kelpuutus) | - |
