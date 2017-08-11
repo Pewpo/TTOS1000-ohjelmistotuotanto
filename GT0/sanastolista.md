@@ -1,12 +1,12 @@
 
 | Nimi | Kasite 1 | Kasite 2 | Kasite 3 |
 |:-:|:-:|:-:| :-:|
-| - | [Asiakas (Customer)](aihe asiakas) | [Versionumerointi](aihe versionumerointi) |- |
-| - | [Tuoteaallikko (Product Manager)](aihe-Tuotepaallikko) | [Monitorointi (Service monitoring)](aihe-Monitorointi) |- |
-| - | [Tuoteomistaja (Product Owner)](aihe-tuoteomistaja) | [Orkestrointi (Service Orchestration)](aihe-orkestrointi) |- |
-| - | [Testauspaallikko (Test Manager)](aihe-testauspaallikko) | [Dokumentinhallinta (Document Management)](aihe-dokumentinhallinta) |- |
-| - | [Ohjelmoija (Programmer)](aihe-ohjelmoija) | [Dokumenttien metamallit (Document Metamodel)](aihe-dokumenttien-metamallit) |- |
-| - | [Prosessin omistaja (Process owner)](aihe prosessin omistaja) | [Kettera kehittaminen (Agile Development)](aihe kettera kehittaminen) |- |
+| - | [Asiakas - Customer](aihe asiakas) | [Versionumerointi](aihe versionumerointi) |- |
+| - | [Tuoteaallikko - Product Manager](aihe-Tuotepaallikko) | [Palvelun monitorointi - Service monitoring)](aihe-Monitorointi) |- |
+| - | [Tuoteomistaja - Product Owner](aihe-tuoteomistaja) | [Orkestrointi - Service Orchestration)](aihe-orkestrointi) |- |
+| - | [Testauspaallikko - Test Manager)](aihe-testauspaallikko) | [Dokumentinhallinta - Document Management)](aihe-dokumentinhallinta) |- |
+| - | [Ohjelmoija - Programmer](aihe-ohjelmoija) | [Dokumentin metatietomalli - Document Metamodel](aihe-dokumenttien-metamallit) |- |
+| - | [Prosessin omistaja - Process owner](aihe prosessin omistaja) | [Kettera kehittaminen - Agile Development](aihe-kettera kehittaminen) |- |
 | - | [Ohjelmistoarkkitehti (Software architech)](aihe-ohjelmistoarkkitehti-(Software-architech)) | [Vesiputousmalli (Water Fall model)](aihe-Vesiputousmalli-(Water-Fall-model)) |- |
 | - | [Testaaja (Test Engineer)](aihe-Testaaja) | [Rational Unified Process (RUP)](aihe-Rational-unified-process-(RUP)) |- |
 | - | [Tukihenkilo - Support Person](aihe-tukihenkilo) | [Katselmointi (Review)](aihe-katselmointi) |- |
