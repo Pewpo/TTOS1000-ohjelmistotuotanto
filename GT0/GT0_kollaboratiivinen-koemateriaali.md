@@ -75,6 +75,6 @@ Hyväksytty/hylätty
 | - | [Virtuaalikone - Virtual Machine)](vvirtuaalikone) | [Palvelumuotoilija - Service Designer)](palvelumuotoilija) |- |
 | - | [Vagrant-teknologia - Vagrant technology](vagrant-technology) | [Ohjelmistotuotanto](Ohjelmistotuotanto) |
 | - | [Systeemi ajattelu - System Thinking](systeemiajattelu) | [ohjelmistotestaaja - software tester](ohjelmistotestaaja)  | 
-| - | [Prosessin omistaja - Process owner](prosessinomistaja) | [Kettera kehittaminen - Agile development](kettera kehittaminen) | - |
+| - | [Prosessin omistaja - Process owner](prosessinomistaja) |[Kettera kehittaminen - Agile development](kettera kehittaminen)| - |
 
 
