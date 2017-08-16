@@ -42,7 +42,7 @@ Hyväksytty/hylätty
 | - | [Toiminnallinen vaatimus (Functional Requirement)](toiminnallinen-vaatimus) | [DevOps](devops) | - |
 | - | [Ei-toiminnnallinen vaatimus - Non functional requirement](Ei-toiminnalinen-vaatimus) | [Reverse Engineering](Reverse-Engineering) | - |
 | - | [Vaatimusten jaljitettavyys - (Traceability)](traceability) | [Six Sigma](six-sigma) |- |
-| - | [Tyotarina - Job Story](tyotarina) | [LEAN Six Sigma](lean-six-sigma) | - |
+| - | [Tyotarina - Job Story](tyotarina) | [LEAN](lean-six-sigma) | - |
 | - | [Kayttajatarina - User Story](kayttajatarina) | [Just in Time - JIT](just-in-time) | - |
 | - | [Kayttötapaus - Use Case ](kayttotapaus) | [Lapimenoaika - Lead time](lapimenoaika) | - |
 | - | [UML - Unified Modeling Language](UML) | [Arvovirtakuvaus -Value Stream Map](arvovirtakuvaus) | - |
@@ -51,9 +51,9 @@ Hyväksytty/hylätty
 | - | [Design Workshop (Suunnittelutyöpaja)](Design-Workshop) | [Lean Body of Knowledge](Lean-Body-of-Knowledge) | - | - |
 | - | [Suunnitteluajattelu - Design Thinking](Design-Thinking) | [Project Management Body of Knowledge](Project-Management-Body-of-Knowledge) | - |
 | - | [Koontipalvelin (Build Server)](koontipalvelin) | [Enterprise Architecture Body of Knowledge](enterprise-architecture-body-of-knowledge) | - |
-| - | [Jatkuvajulkaisu (Continuous delivery)](jatkuva-julkaisu) | [Common Body of Knowledge](common-body-of-knowledge) | - |
+| - | [Jatkuvajulkaisu (Continuous delivery)](jatkuva-julkaisu) | [Kelpuuttaminen - Validation](kelpuuttaminen-validation) | - |
 | - | [Jatkuva integrointi(Continuous Integration)](Jatkuva-integrointi) | [Software Engineering Body of Knowledge](Software-Engineering-Body-of-Knowledge) | - |
-| - | [Laadunvarmistus (Quality Assurance)](laadunhallinta) | [Internet of Things](Esineiden-Internet) | - |
+| - | [Laadunvarmistus (Quality Assurance)](laadunhallinta) | [Esineiden Internet - Internet of Things](internet-of-things) | - |
 | - | [Parikoodaus](parikoodaus) | [Business Analysis Body of Knowledge](business-analysis-body-of-knowledge) | - |
 | - | [kaantaja (Compiler)](kaantaja(compiler)) | [Information Technology Infrastructure Library ITIL](itil) | - |
 | - | [Laadunvarmistus (Quality Assurance)](laadunvarmistus) | [Software testing body of knowledge](software-testing-body-of-knowledge) |- |
@@ -61,9 +61,9 @@ Hyväksytty/hylätty
 | - | [Regressiotestaus (Regression Testing)](regressio-testaus) | [Jatkuvajulkaisu (Continuous Delivery)](jatkuvajulkaisu) |- |
 | - | [Julkaisusuunnittelu (Release Management)](julkaisusuunnittelu) | [Jatkuvasuunnittelu (Continuous Planning)](jatkuvasuunnittelu) | - |
 | - | [Kayttoonotto (Service Deployment)](regressio-testaus) | [Liiketoiminantavoite (Business Goal)](liiketoimintatavoite) |- |
-| - | [Yllapito (Maintenance)](yllapito) | Palvelukuvaus (Service Description) |- |
+| - | [Yllapito (Maintenance)](yllapito) | Palvelukuvaus (Service Description) | - |
 | - | [Vika - Bug](Vika-(bug)) | [SLA Service Level Agreement](service-level-agreement)) |- |
-| - | [Virhe - Failure](Virhe) | [Vianhallinta (Error management)](vianhallinta) |- |
+| - | [Virhe - Failure](Virhe) | [Vianhallinta (Error management)](vianhallinta) | - |
 | - | [Ongelma, virhe, vika](ongelma) | [Logi](logi) |- |
 | - | [Poikkeama - Defect]( Poikkeama(Defect)) | [Ominaisuus/piirre (Feature)]( Ominaisuus piirre (Feature)) | - |
 | - | [Kriittinen polku - Critical Path](Kriittinen-polku) | [Vikatietokanta - Defect Database]() | - |
