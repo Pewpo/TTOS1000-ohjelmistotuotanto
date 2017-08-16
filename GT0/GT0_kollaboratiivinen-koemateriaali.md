@@ -5,7 +5,7 @@
 Opiskelijat tuottavat yhdessä wiki-sivuston, johon luodaan alla-olevista käsitteestä/aiheista koostettu dokumentti sivu. repositorion sijainti annetaan kurssin alussa! Opiskelijan tuottama käsitekuvaus pyritään linkittämään aiheeseen liittyviin muihin dokumentteihin muun aiheeseen liittyvän sivun kanssa(vähintään viiteen sivuun). Ulkopuolisiin lähteisiin on oltava viittauksia! Tuotettun kuvauksen ei voi olla suoraan kopioitu verkkosivuilita, vaan se on kirjoitettava yksilön toimesta. Tuotettu teksti tarkistetaan Urkund-palvelun avulla, joten plagiointi ei kannata! 
 
 Jokaisen käsite/aihekokonaisuuden kuvauksen loppuun kerätään lähteitä, joit on käytetty apua tekstin kirjoitusprosessissa.
-Esimerkki yhdestä kuvauksesta löytyy [täältä]()
+Esimerkki yhdestä kuvauksesta löytyy [täältä](https://github.com/JAMK-IT/TTOS1000-ohjelmistotuotanto/blob/master/GT0/kasitekuvaus-pohja.md)
 Kun tuotettu dokumentaatio todetaan riittävän valmiiksi (takaraja sovitaan kurssin aikana) se viedään läpi Urkund järjestelmän, jonka avulla tarkistetaan onko sisällössä käytetty plagioitua tekstiä!
 Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 
