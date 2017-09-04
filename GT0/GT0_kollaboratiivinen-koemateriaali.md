@@ -8,6 +8,8 @@ Opiskelijat tuottavat yhdessä wiki-sivuston, johon luodaan alla-olevista käsit
 
 Esim: _ketterakehitys.md_ , _prosessinomistaja.md_, _lean-ux.md_, _product-owner.md_, testausinsinoori.md_ 
 
+**Älä kirjoita toisen aiemmin tuottaman dokumentin päälle**
+
 Käsite/aihekokonaisuuden kuvauksen loppuun kerätään ne lähteet, joita on käytetty apua tekstin kirjoitusprosessissa.
 Esimerkki yhdestä kuvauksesta löytyy [täältä](https://github.com/JAMK-IT/TTOS1000-ohjelmistotuotanto/blob/master/GT0/kasitekuvaus-pohja.md)
 Kun tuotettu dokumentaatio todetaan riittävän valmiiksi (takaraja sovitaan kurssin aikana) se viedään läpi Urkund järjestelmän, jonka avulla tarkistetaan onko sisällössä käytetty plagioitua tekstiä!
