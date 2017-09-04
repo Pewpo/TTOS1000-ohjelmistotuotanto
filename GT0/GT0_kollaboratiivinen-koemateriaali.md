@@ -14,6 +14,8 @@ Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
 
 * AIKATAULU 7.11.Tekstit valmiina tarkistettavaksi Urkundissa!
 * TENTTI 14.11.2017 !
+* Urkund? [Mikä on Urkund!!](http://www.urkund.com/en/)
+
 
 ### Tavoite:
 
