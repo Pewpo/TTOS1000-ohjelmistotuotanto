@@ -2,7 +2,7 @@
 
 ### Tehtäväkuvaus:
 
-Opiskelijat tuottavat yhdessä wiki-sivuston, johon luodaan alla-olevista käsitteestä/aiheista koostettu dokumentti sivu. repositorion sijainti annetaan kurssin alussa! Opiskelijan tuottama käsitekuvaus pyritään linkittämään aiheeseen liittyviin muihin dokumentteihin muun aiheeseen liittyvän sivun kanssa(vähintään viiteen sivuun). Ulkopuolisiin lähteisiin on oltava viittauksia! Tuotettun kuvauksen ei voi olla suoraan kopioitu verkkosivuilita, vaan se on kirjoitettava yksilön toimesta. Tuotettu teksti tarkistetaan Urkund-palvelun avulla, joten plagiointi ei kannata! 
+Opiskelijat tuottavat yhdessä wiki-sivuston, johon luodaan alla-olevista käsitteestä/aiheista koostettu dokumentti sivu. repositorion sijainti annetaan kurssin alussa! Opiskelijan tuottama käsitekuvaus pyritään linkittämään aiheeseen liittyviin muihin ko. repositoriossa sijaitsevaan md-dokumentteihin. Pyri löytämään vähintään kolmeen alasivua. Tuotettu kuvaus ei voi olla suoraan kopioitu verkkosivuilita, vaan se on kirjoitettava yksilön toimesta. Tuotettu teksti tarkistetaan Urkund-palvelun avulla, joten plagiointi ei kannata! 
 
 **Tallenna dokumentti ilman skandinaavisia merkkejä**
 
@@ -10,16 +10,21 @@ Esim: _ketterakehitys.md_ , _prosessinomistaja.md_, _lean-ux.md_, _product-owner
 
 **Älä kirjoita toisen aiemmin tuottaman dokumentin päälle**
 
-Käsite/aihekokonaisuuden kuvauksen loppuun kerätään ne lähteet, joita on käytetty apua tekstin kirjoitusprosessissa.
-Esimerkki yhdestä kuvauksesta löytyy [täältä](https://github.com/JAMK-IT/TTOS1000-ohjelmistotuotanto/blob/master/GT0/kasitekuvaus-pohja.md)
-Kun tuotettu dokumentaatio todetaan riittävän valmiiksi (takaraja sovitaan kurssin aikana) se viedään läpi Urkund järjestelmän, jonka avulla tarkistetaan onko sisällössä käytetty plagioitua tekstiä!
-Kun materiaali todetaan hyväksytyksi siitä pidetään tentti!
+Pyydä apua, jos epäilet osaamistasi :)
 
+**Muista viitata ulkopuolisiin lähteisiin**
+
+Käsite/aihekokonaisuuden esittelykuvauksen loppuun kerätään lähteet, joita on käytetty apuna kirjoitusprosessissa.
+Karkea esimerkki yhdestä kuvauksesta löytyy [täältä](https://github.com/JAMK-IT/TTOS1000-ohjelmistotuotanto/blob/master/GT0/kasitekuvaus-pohja.md)
+Kun kaikki dokumentit on todettu riittävän valmiiksi niistä koostetaan yksi PDF-dokumentti, joka viedään Urkund-järjestelmän. Urkund tarkistaa sisällön ja etsii mahdolliset plagiaatit!
+
+** Milloin päästään tenttimään?**
+
+Kun materiaali todetaan riittävän hyväksi ja se läpäiseen Urkund-järjestelmän. 
 
 ### Lähteet ja linkit
 
-* AIKATAULU 7.11.Tekstit valmiina tarkistettavaksi Urkundissa!
-* TENTTI 14.11.2017 !
+* Esimerkki MarkDown-sivun rakenne []()
 * Urkund? [Mikä on Urkund!!](http://www.urkund.com/en/)
 
 
