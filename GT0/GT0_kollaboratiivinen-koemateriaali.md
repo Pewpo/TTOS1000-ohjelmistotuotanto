@@ -4,6 +4,10 @@
 
 Opiskelijat tuottavat yhdessä wiki-sivuston, johon luodaan alla-olevista käsitteestä/aiheista koostettu dokumentti sivu. repositorion sijainti annetaan kurssin alussa! Opiskelijan tuottama käsitekuvaus pyritään linkittämään aiheeseen liittyviin muihin ko. repositoriossa sijaitsevaan md-dokumentteihin. Pyri löytämään vähintään kolmeen alasivua. Tuotettu kuvaus ei voi olla suoraan kopioitu verkkosivuilita, vaan se on kirjoitettava yksilön toimesta. Tuotettu teksti tarkistetaan Urkund-palvelun avulla, joten plagiointi ei kannata! 
 
+
+* [YOUTUBE-selostus tehtävästä](https://www.youtube.com/watch?v=LdIDsQhxtr0&feature=youtu.be)
+
+
 **Tallenna dokumentti ilman skandinaavisia merkkejä**
 
 Esim: _ketterakehitys.md_ , _prosessinomistaja.md_, _lean-ux.md_, _product-owner.md_, testausinsinoori.md_ 
