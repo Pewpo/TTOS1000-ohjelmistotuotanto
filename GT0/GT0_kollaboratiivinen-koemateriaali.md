@@ -45,6 +45,8 @@ Käsitteet ja vastuut on kuvattu seuraavissa osoitteissa:
 
 * Käsitteet: https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/all_concepts.md
 * Vastuut: https://docs.google.com/spreadsheets/d/19emxhQOCZSzmsktJPQ5gCExmtHWHFFEkf_KOvVQOEMA/edit?usp=sharing
-
+* Löydät [pohjan omille MarkDown-sivuille täältä](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/use-this-file-as-concept-template.md)
+* Kannattaa katsoa läpi [Youtube-video](https://www.youtube.com/watch?v=LdIDsQhxtr0)
+* Viimeisin "Read The Docs"-muotoinen koooste kaikista dokumenteista löytyy [täältä](http://jamk-it-ttos1000-gt0.readthedocs.io/en/latest/) 
 
 
